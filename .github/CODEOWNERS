@@ -2,8 +2,7 @@
 dev/* @CI-CD-Demo-Finkraft/development-team
 
 # qa branch →QA_Team owns
-qa/* @CI-CD-Demo-Finkraft/qa_team
+qa/* @CI-CD-Demo-Finkraft/qa-team
 
 # Main branch → Release_Team owns
-main/* @CI-CD-Demo-Finkraft/release_team  
-  
+main/* @CI-CD-Demo-Finkraft/release-team  
